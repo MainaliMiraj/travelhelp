@@ -155,6 +155,9 @@ input[type="checkbox"] {
 .details {
   color: #ffb940;
 }
+.scale{
+  background-color: teal;
+}
 
 .scale:active {
   transform: scale(1.);
